@@ -1,12 +1,12 @@
-# revision 16813
+# revision 29803
 # category Package
 # catalog-ctan /macros/latex/contrib/capt-of
-# catalog-date 2010-01-27 23:13:46 +0100
+# catalog-date 2012-04-27 20:27:12 +0200
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-capt-of
-Version:	20100127
-Release:	2
+Version:	20120427
+Release:	1
 Summary:	Captions on more than floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/capt-of
@@ -51,18 +51,3 @@ this package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 20100127-2
-+ Revision: 749974
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20100127-1
-+ Revision: 718006
-- texlive-capt-of
-- texlive-capt-of
-- texlive-capt-of
-- texlive-capt-of
-- texlive-capt-of
-
