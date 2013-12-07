@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-capt-of
 Version:	20120427
-Release:	4
+Release:	5
 Summary:	Captions on more than floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/capt-of
