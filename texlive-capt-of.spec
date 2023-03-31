@@ -1,6 +1,6 @@
 Name:		texlive-capt-of
 Version:	29803
-Release:	1
+Release:	2
 Summary:	Captions on more than floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/capt-of
