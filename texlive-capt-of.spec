@@ -3,7 +3,7 @@ Version:	29803
 Release:	2
 Summary:	Captions on more than floats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/capt-of
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/capt-of
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/capt-of.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/capt-of.doc.r%{version}.tar.xz
