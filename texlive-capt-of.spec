@@ -13,8 +13,6 @@ Source1:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/capt-of.doc.r%{t
 Source2:	https://mirrors.ctan.org/systems/texlive/tlnet/archive/capt-of.source.r%{tl_revision}.tar.xz
 BuildArch:	noarch
 BuildSystem:	texlive
-BuildRequires:	texlive-tlpkg
-%texlive_base_requires
 Provides:	texlive(%{tl_name}) = %{tl_revision}
 
 %description
